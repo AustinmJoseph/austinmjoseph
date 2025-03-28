@@ -7,6 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/AustinmJoseph/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/AustinmJoseph/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Setting up Active Directory within Azure](https://github.com/AustinmJoseph/AD-Setup)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/AustinmJoseph/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AustinmJoseph/azure-network-protocols)
 
