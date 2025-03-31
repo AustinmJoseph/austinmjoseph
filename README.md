@@ -9,7 +9,6 @@
 - <b>Microsoft Azure</b>
   - [Setting up Active Directory within Azure](https://github.com/AustinmJoseph/AD-Setup)
        - [Curating Users, using Group Policy, and Managing Accounts](https://github.com/AustinmJoseph/Users-Group-Policy-Account-Management)
-       - [Practicing with DNS fom Active Directory](https://github.com/AustinmJoseph/configure-ad)
        - [Permissions and Network Files practice](https://github.com/AustinmJoseph/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AustinmJoseph/azure-network-protocols)
 
